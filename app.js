@@ -46,3 +46,22 @@ prefere at the beggining to use const either than let. */
 put a number as first caratere of our variable's name, there are also some
 keywords that we cannot use. Its also recommand to use camelCase when we name
 our variables */
+
+// Javascript operators
+
+// Basic operator
+
+let operator = 10;
+
+console.log(operator + 10); // it's gonna do 10 + 10
+
+// There is a simplier way of doing this, see the example below
+
+let simplier = 21;
+simplier += 10;
+console.log(simplier);
+
+// We can do a lot of calculation by using sign such as +, -, *, **, /, %.
+
+inbox ++; // We had 1 to whatever is on the inbox
+inbox --; // Same but we remove 1
